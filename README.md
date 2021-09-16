@@ -17,3 +17,4 @@ To send serial data with the help of UART Protocol as we aren't using CAN
 [![C/C++ CI](https://github.com/Shirishameda25/Stepin_Embeddedhotseat/actions/workflows/c-build.yml/badge.svg)](https://github.com/Shirishameda25/Stepin_Embeddedhotseat/actions/workflows/c-build.yml)
 [![Compile-Linux](https://github.com/Shirishameda25/Stepin_Embeddedhotseat/actions/workflows/Compile.yml/badge.svg)](https://github.com/Shirishameda25/Stepin_Embeddedhotseat/actions/workflows/Compile.yml)
 [![Cppcheck](https://github.com/Shirishameda25/Stepin_Embeddedhotseat/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Shirishameda25/Stepin_Embeddedhotseat/actions/workflows/CodeQuality.yml)
+[![Valgrind](https://github.com/Shirishameda25/Stepin_Embeddedhotseat/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Shirishameda25/Stepin_Embeddedhotseat/actions/workflows/Valgrind.yml)
